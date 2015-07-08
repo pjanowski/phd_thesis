@@ -1,0 +1,17 @@
+﻿Table 5.
+        Hydrogen bonds<comma> van der Waals contacts and interactions between symmetry-related duplexes in RNA. The data in parentheses are standard deviations. Interface areas were computed by PISA.
+Type,Interactions,Area (Å2),Atom 1,Symmetry operator,Atom 2,Xtal. dist.,Cryst. sim. dist.
+1,Minor groove–minor groove,311.5,O2/U1,−x + 1<comma> y − 1/2<comma> −z + 1/2,O2′/A11,3.01,2.78 (0.20)
+O2′/A28,O2/U18,3.02,2.80 (0.19)
+O3′/A28,O2′/U18,3.00,3.10 (0.23)
+O2′/U1,OP1/U12,3.30,4.28 (0.55)
+O2′/U2,O2′/U10,2.46,4.02 (0.80)
+O2′/A3,O2′/U20,3.20,3.86 (0.86)
+2,Minor groove–minor groove,304.3,O2/U15,x − 1/2<comma> −y + 1/2<comma> −z,O2′/A25,2.67,3.31 (0.96)
+O2′/A14,O2/U4,2.77,2.99 (0.39)
+O3′/A14,O2′/U4,3.01,3.69 (1.36)
+3,Major groove–major groove,138.8,C6/U15,−x + 1/2<comma> −y + 1<comma> z − 1/2,O2′/U22,3.17,4.44 (0.94)
+C5/U15,O3′/U22,2.80,3.75 (0.69)
+O3′/A9,O5′/U1,3.53,4.10 (1.11)
+O3′/A9,C5′/U1,3.30,4.26 (1.10)
+OP1/U10,C5′/U1,3.32,4.19 (1.21)

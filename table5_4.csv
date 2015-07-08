@@ -1,0 +1,6 @@
+﻿Table 4.
+        The average twist (in degrees) for the RNA and DNA average structures. Twist values were calculated using the program Curves +.
+,RNA,DNA
+Exp. crystal,31.7,37.3
+Sim. crystal,31.4,35.7
+Sim. solution,29.8,32.3

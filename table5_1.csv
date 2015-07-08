@@ -1,0 +1,10 @@
+﻿Table 1.
+        Details of the simulations. Simulation speed is measured on a single NVIDIA GTX780 card for the RNA simulations<comma> and on a Quadro K5000 card for the DNA simulations. Ions are Mg2 + for the DNA crystal and Na+ for the other simulations. Atom counts do not include the “extra points” in the TIP4P/Ew waters.
+,DNA,RNA,DNA (soln),RNA (soln)
+Number of waters,8578,12 300,5045,7694
+Number of ions,288,832,18,26
+Total number of atoms,46 246,65 892,15 785,23 988
+Mean internal pressure<comma> atm,30,97,1.0,1.0
+Density<comma> g/cm3,1.433,1.446,1.044,1.034
+Simulation speed<comma> ns/day,16.7,21.5,24.3,26.9
+Time analyzed<comma> μs,2.0,0.5,0.5,1.0

@@ -1,0 +1,22 @@
+﻿Table 6.
+        van der Waals contacts and interactions between symmetry-related helices in DNA. The data in parentheses are standard deviations.
+Type,Interactions,Area (Å2),Atom 1,Symmetry operator,Atom 2,Xtal. dist.,Cryst. sim. dist.
+1,Terminal–terminal,199.9,N3/C11,x<comma> y<comma> z − 1,N3/G20,3.49,3.51 (0.23)
+O3′/G10,O5′/C1,3.37,3.63 (0.89)
+2,Backbone–minor groove,154.2,OP1/A3,x − 1/2<comma> −y + 1/2<comma> −z,O4′/A17,3.65,4.77 (1.08)
+P/A3,P/A17,6.49,7.59 (1.53)
+P/T4,P/A17,4.65,5.79 (1.93)
+OP1/T4,OP2/A17,3.88,5.83 (1.33)
+OP2/T4,O5′/A17,3.79,4.62 (0.96)
+3,Backbone–backbone,102.7,OP1/A13,x − 1/2<comma> −y + 1/2<comma> −z + 1,OP2/C9,3.90,5.24 (1.39)
+O3′/G12,O5′/T8,3.93,5.23 (1.45)
+P/A13,P/C9,5.15,6.65 (1.29)
+P/G12,P/T8,8.25,7.12 (1.08)
+4,Minor groove–major groove,76.1,P/G6,−x + 1/2<comma> −y<comma> z − 1/2,O3′/G20,3.74,4.29 (1.05)
+OP2/G6,O3′/G20,2.68,3.37 (1.00)
+P/G6,P/G20,8.07,8.36 (1.22)
+P/G12,P/G6,6.28,7.71 (1.10)
+5,Major groove–major groove,76.0,P/G16,−x + 1/2<comma> −y + 1<comma> z − 1/2,O5′/C1,3.40,4.63 (1.14)
+O3′/G10,P/G16,3.93,3.96 (0.77)
+P/G16,P/G2,6.29,8.09 (1.03)
+P/G10,P/G16,8.36,7.57 (0.96)

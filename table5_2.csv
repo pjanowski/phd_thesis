@@ -1,0 +1,7 @@
+﻿Table 2.
+        Root mean square deviations (Å) from the deposited crystal structures for 1RNA and 1D23. The statistics in each box are heavy atoms<comma> backbone atoms<comma> base atoms RMSD of average structure against the crystal structure. The values in parentheses exclude the terminal residues.
+,All heavy atoms,Backbone,Base,All heavy atoms (solution)
+Best-fit (RNA),0.78 (0.71),0.87,0.59,1.38 (1.12)
+Lattice (RNA),0.93,1.04,0.74,~
+Best-fit (DNA),0.77 (0.64),0.89,0.56,1.83 (1.34)
+Lattice (DNA),1.12,1.23,0.95,~
